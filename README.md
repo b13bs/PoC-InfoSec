@@ -1,2 +1,2 @@
 # PoC-InfoSec
-Simple proof of concept for various security concepts
+Simple proof of concept for information security concepts, nothing too fancy!
