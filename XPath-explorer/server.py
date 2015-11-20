@@ -18,7 +18,7 @@ class MyHandler(http.server.BaseHTTPRequestHandler):
                     request_id = urllib.parse.unquote(request_id_regex.group(1))
                 else:
                     self.send_error(404)
-
+                
                 self.wfile.write(request_id.encode("utf-8"))
             else:
                 self.send_error(404)

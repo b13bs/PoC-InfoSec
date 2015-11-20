@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<users>
+	<username id="1">
+		<name>paranoic_admin</name>
+		<pass>WxbQT9BdXcG2XHITuZdkqWsBpR</pass>
+	</username>
+	<username id="2">
+		<name>user</name>
+		<pass>abc123</pass>
+	</username>
+	<username id="3">
+		<name>johnsmith</name>
+		<pass>ofcourse</pass>
+	</username>
+	<username id="4">
+		<name>dummy</name>
+		<pass>abc123</pass>
+	</username>
+	<username id="5">
+		<name>imagine</name>
+		<pass>dragon</pass>
+	</username>
+</users>
